@@ -1,1 +1,1 @@
-# oi29-1etap
+Autor rozwiązań i kodów: Wiktor Lewicki
